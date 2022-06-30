@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <article class="b">
+            <h1 class="color">Вход</h1>
+
+            <h3 class="color">Введите логин</h3><br>
+                <input type="text" size="20" name="nick">
+
+            <h3 class="color">Ведите пороль:</h3><br>
+                <input type="text" size="20" name="nick">
+
+            <h2 class="color1"><button>Войти</button></h2>
+            <h4 class="color1"><button>Зарегистрироваться</button></h4>
+        </article>
+    </main>
+</body>
+</html>
